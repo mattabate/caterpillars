@@ -96,3 +96,7 @@ The original 2024 study script is kept in [`2024/`](2024/).
 pip install -e . pytest
 pytest
 ```
+
+## License
+
+MIT.
